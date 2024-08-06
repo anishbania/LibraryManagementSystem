@@ -71,7 +71,6 @@ Build project is located on bin directory
 
 ![8](https://github.com/saileshrijal/LibraryManagementSystem/assets/88402075/fc444975-88bb-4416-9ad4-8dea1ea7239b)
 
-![9](https://github.com/saileshrijal/LibraryManagementSystem/assets/88402075/54dd6834-c64f-45f8-add1-ca8788ee6a9e)
 
 ## Demo
 
